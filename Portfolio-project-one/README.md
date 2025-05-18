@@ -113,8 +113,8 @@ This project provided actionable insights into New Year sales behavior. The anal
 
 ## 📌 Project Developed By
 
-**[Your Name]**  
+**[Shubham Raut]**  
 💼 Data Analyst Intern @ Inlighn Tech  
 📆 Duration: March 2025 – Present  
-🌐 GitHub: [your GitHub link]  
-🔗 LinkedIn: [your LinkedIn profile link]
+🌐 GitHub: [https://github.com/shubhamraut0209]  
+🔗 LinkedIn: [http://linkedin.com/in/shubham-raut-986bb1227]
