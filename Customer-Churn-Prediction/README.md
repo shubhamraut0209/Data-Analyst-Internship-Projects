@@ -73,12 +73,7 @@ Evaluate using accuracy, precision, recall, and F1-score.
 
 ## 🤖 Model Performance
 
-   | Model	           | Precision |	Recall |	F1-Score |
-   | Random Forest	   |   High	   |   High	 |   High    |
-   | XGBoost	         |   High	   |   High	 |   High    |
-   | Voting Classifier |   Best	   |   Best	 |   Best    |
-
-## ✅ VotingClassifier (Soft Voting) achieved the best balance of precision and recall, making it suitable for real-time churn prediction.
+ ✅ VotingClassifier (Soft Voting) achieved the best balance of precision and recall, making it suitable for real-time churn prediction.
 
 ---
 
