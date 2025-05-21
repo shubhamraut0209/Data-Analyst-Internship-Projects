@@ -46,6 +46,9 @@ Created a content-based recommendation engine using TF-IDF and cosine similarity
 🔹 **Sales Data Analysis (Python)**  
 Performed EDA on retail sales data to identify store-level performance, seasonality, and actionable sales insights.
 
+🔹 **Stock Market Analysis (Python)**  
+Analyzed historical stock and crypto prices using time-series trends, moving averages, RSI, and MACD to support investment insights.
+
 _(More projects coming soon...)_
 
 ---
