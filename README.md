@@ -1,20 +1,20 @@
-# 📊 Data Analyst Internship Projects – Inlighn Tech
+# 📊 Data Analyst – Project Portfolio
 
-This repository contains a collection of real-world data analysis and automation projects completed during my 3-month internship as a **Data Analyst Intern at Inlighn Tech**.
+This repository showcases a collection of **end-to-end data analytics and applied machine learning projects** completed as part of my **Data Analyst internship and contract-based experience** with Inlighn Tech.
 
-Each project reflects practical tasks using tools like **Python, SQL, Power BI, and Excel**, aimed at solving business problems and delivering actionable insights.
+The projects reflect **real-world analytical tasks**, focusing on data cleaning, exploratory analysis, predictive modeling, automation, and business-focused insights using **Python, SQL, Power BI, and Excel**, aimed at solving business problems and delivering actionable insights.
 
 ---
 
 ## 🔧 Tools & Technologies
-- Python (automation, chatbot, analysis)
+- Python (EDA, automation, chatbot, analysis)
 - SQL (PostgreSQL)
 - Power BI (interactive dashboards)
 - Excel (data cleaning, reporting)
 
 ---
 
-## 📁 Project List
+## 📁 Project Highlights
 
 🔹 **Chatbot Automation (Python)**  
 A voice-activated AI chatbot built using Python, enabling task automation, Wikipedia search, and system commands.
@@ -53,5 +53,5 @@ _(More projects coming soon...)_
 
 ---
 
-## 🚀 Purpose
-To demonstrate applied data analytics skills in a business setting through internship-driven deliverables and learnings.
+## 🎯 Objective
+To demonstrate **applied data analytics skills in a professional setting**, translating raw data into actionable insights through structured analysis, statistical thinking, and clear storytelling.
