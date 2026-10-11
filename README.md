@@ -339,10 +339,10 @@ I am continuing to build on this experience through advanced learning and hands-
 📊 Data Analyst
 🤖 AI & Data Analytics Enthusiast
 
-🔗 LinkedIn
 
-💻 GitHub
+📫 **LinkedIn:** [Shubham Raut](https://www.linkedin.com/in/shubham-raut-986bb1227/)
 
+💻 **GitHub:** [@shubhamraut0209](https://github.com/shubhamraut0209)
 ---
 
 **Turning data into insights through statistics, analytical thinking, and technology.**
